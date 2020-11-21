@@ -3,7 +3,7 @@ Summary of Data
 
 Player Count
 
-There are 576 active players, some players making multiple purchases. 
+  There are 576 active players, some players making multiple purchases. 
 
 Purchasing Analysis (Total)
 
