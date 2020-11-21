@@ -26,7 +26,7 @@ There are 576 active players, some players making multiple purchases.
  
 Age Demographics
 ________________________________________________
-  [AGE_DEMO](Images/Age_DEMO.png)
+  ![AGE_DEMO](Images/Age_DEMO.png)
 
 Top Spenders
 _________________________________________________
