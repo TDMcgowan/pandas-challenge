@@ -35,3 +35,7 @@ _________________________________________________
 Most Popular Items
 __________________________________________________
   ![AGE_DEMO](Images/Top_spenders.png)
+  
+ Most Profitable Items 
+  ________________________________________________
+  !![AGE_DEMO](Images/Profit].png)
