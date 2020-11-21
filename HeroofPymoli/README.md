@@ -38,4 +38,4 @@ __________________________________________________
   
  Most Profitable Items 
   ________________________________________________
-  !![AGE_DEMO](Images/Profit].png)
+  !![AGE_DEMO](Images/Profit.PNG)
