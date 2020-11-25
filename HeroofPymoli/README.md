@@ -24,7 +24,7 @@ Purchasing Analysis (Gender)
  	Females made 113 purchases with and average purchase prices of $3.20 totaling $361.94 in revenue. Female players spent an average of $4.47 in total.
  	Other /NON-Disclosed players made 15 purchases with and average purchase prices of $3.35 totaling $50.19 in revenue. These players spent an average of $4.56 in total.
  
-Age Demographics
+Purchasing Analysis (Age)
 ________________________________________________
   ![AGE_DEMO](Images/Age_DEMO.png)
 
