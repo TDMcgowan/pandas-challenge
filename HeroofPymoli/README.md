@@ -28,11 +28,11 @@ Purchasing Analysis (Age)
 ________________________________________________
   ![AGE_DEMO](Images/Age_DEMO.png)
 
-Top Spenders
+Most Popular Items
 _________________________________________________
   ![AGE_DEMO](Images/Most_Pop_item.png)
 
-Most Popular Items
+Top Spender
 __________________________________________________
   ![AGE_DEMO](Images/Top_spenders.png)
   
